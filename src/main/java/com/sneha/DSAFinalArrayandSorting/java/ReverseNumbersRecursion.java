@@ -1,4 +1,4 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 //here both time complexity is O(n).
 public class ReverseNumbersRecursion {
     public static void main(String[] args) {

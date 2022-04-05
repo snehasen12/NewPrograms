@@ -1,7 +1,7 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 
 import java.util.Scanner;
-import java.util.*;
+
 public class InsertionSort {
     public static void main(String[] args) {
         InsertionSort m = new InsertionSort();

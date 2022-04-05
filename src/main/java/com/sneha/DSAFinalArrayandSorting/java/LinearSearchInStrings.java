@@ -1,4 +1,4 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 
 import java.util.Scanner;
 public class LinearSearchInStrings {
@@ -16,8 +16,8 @@ public class LinearSearchInStrings {
         int size = sc.nextInt();
 
         System.out.println("Enter the string:");
-        String s1 = new String();
-        s1 = sc.next();
+        //String s1 = new String();
+        String s1 = sc.next();
         char[] arr = new char[size];
 
         for(int i=0;i<arr.length;i++){

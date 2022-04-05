@@ -1,4 +1,4 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 import java.util.Scanner;
 public class LinearSearchInRange {
     public static void main(String[] args) {

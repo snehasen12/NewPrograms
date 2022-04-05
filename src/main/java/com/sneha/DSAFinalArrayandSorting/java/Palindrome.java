@@ -1,4 +1,4 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 
 public class Palindrome {
     static int sum = 0;
