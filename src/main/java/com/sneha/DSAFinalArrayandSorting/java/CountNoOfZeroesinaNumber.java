@@ -1,4 +1,4 @@
-package com.sneha.DSAFinal.java;
+package com.sneha.DSAFinalArrayandSorting.java;
 
 public class CountNoOfZeroesinaNumber {
     public static void main(String[] args) {
